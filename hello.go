@@ -1,10 +1,9 @@
-package hello
+package main
 
 import (
 	"fmt"
 )
 
-// Hello say hello!
-func Hello() {
+func main() {
 	fmt.Println("hello!")
 }
